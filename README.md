@@ -37,7 +37,7 @@ End-to-end data pipeline analyzing 2.4M+ NHS A&E records against the 4-hour wait
 - Built Bronze → Silver → Gold ETL pipeline with SQL transformations
 - Cleaned messy healthcare data (clinical suppression marks, type casting)
 - Created executive dashboards revealing 6.3pp performance gap
-- Identified Type 1 Major A&E as primary bottleneck (68.5% vs 76% target)
+- Identified Type 1 Major A&E as primary bottleneck (68.5% vs 78% target)
 
 **Skills:** SQL data cleaning | Power BI visualization | DAX measures | Healthcare analytics
 
