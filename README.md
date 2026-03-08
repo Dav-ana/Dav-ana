@@ -47,7 +47,7 @@ End-to-end data pipeline analyzing 2.4M+ NHS A&E records against the 4-hour wait
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [Your LinkedIn URL]
+- 💼 **LinkedIn:** www.linkedin.com/in/davina-adu
 - 📧 **Email:** davinasadu@gmail.com
 - 🌐 **Location:** London, United Kingdom
 
