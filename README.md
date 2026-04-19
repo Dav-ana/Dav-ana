@@ -27,21 +27,7 @@ I'm a healthcare professional with experience in audiology, now applying my anal
 
 ## 📊 Featured Projects
 
-### [🏥 NHS A&E Performance Analysis](https://github.com/[your-username]/nhs-ae-performance-analysis)
-
-**Tech Stack:** SQL Server | Power BI | T-SQL  
-
-End-to-end data pipeline analyzing 2.4M+ NHS A&E records against the 4-hour waiting time standard.
-
-**Key Achievements:**
-- Built Bronze → Silver → Gold ETL pipeline with SQL transformations
-- Cleaned messy healthcare data (clinical suppression marks, type casting)
-- Created executive dashboards revealing 6.3pp performance gap
-- Identified Type 1 Major A&E as primary bottleneck (68.5% vs 78% target)
-
-**Skills:** SQL data cleaning | Power BI visualization | DAX measures | Healthcare analytics
-
-[View Project →](https://github.com/[your-username]/nhs-ae-performance-analysis)
+### 
 
 ---
 
