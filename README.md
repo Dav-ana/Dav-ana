@@ -1,7 +1,7 @@
 # Hi, I'm Davina Adu 👋
-Audiologist → Data Analyst | London, UK
+Audiologist → Analytics Engineer | London, UK
 
-I'm a healthcare professional with five years of clinical experience, now applying my analytical mindset to data analytics. I specialise in turning complex, domain-specific data into clear insights — combining healthcare expertise with technical skills in SQL, Power BI, and data visualisation.
+I specialize in building structured, clinical-grade data pipelines. With five years of experience in Audiology, I bridge the gap between complex healthcare requirements and technical data engineering solutions using SQL (PostgreSQL, T-SQL) and Analytics Engineering best practices.
 
 ---
 ## Skills
