@@ -17,7 +17,7 @@ End-to-end product analytics case study for a fictional hearing aid companion ap
 
 `T-SQL` `Power BI` `Product analytics` `A/B testing` `MedTech`
 
-**HearEar Analytics Engineering — Clinical Data Pipeline**
+__[HearEar Analytics Engineering — Clinical Data Pipeline](https://github.com/yourusername/HearEar-analytics)__
 End-to-end analytics engineering project for a fictional multi-branch London audiology clinic. Covers dimensional modelling, a three-layer SQL pipeline (raw → staging → mart), and BSA-standard hearing loss classification including PTA, severity, type, and laterality.
 `PostgreSQL` `Analytics Engineering` `Clinical Data` `BSA Standards` `MedTech`
 
