@@ -11,17 +11,17 @@ I specialize in building structured, clinical-grade data pipelines. With five ye
 
 ## 📊 Featured Projects
 
-**[Auraex Companion App — Product Analytics](https://github.com/Dav-ana/Hearing-Aid-Companion-App-Analysis)**
-
-End-to-end product analytics case study for a fictional hearing aid companion app. Covers SQL data validation, onboarding funnel analysis, retention, and feature engagement — with a Power BI dashboard and a written A/B test proposal.
-
-`T-SQL` `Power BI` `Product analytics` `A/B testing` `MedTech`
-
 **[HearEar Analytics Engineering — Clinical Data Pipeline](https://github.com/yourusername/HearEar-analytics)**
 
 End-to-end analytics engineering project for a fictional multi-branch London audiology clinic. Covers dimensional modelling, a three-layer SQL pipeline (raw → staging → mart), and BSA-standard hearing loss classification including PTA, severity, type, and laterality.
 
 `PostgreSQL` `Analytics Engineering` `Clinical Data` `BSA Standards` `MedTech`
+
+**[Auraex Companion App — Product Analytics](https://github.com/Dav-ana/Hearing-Aid-Companion-App-Analysis)**
+
+End-to-end product analytics case study for a fictional hearing aid companion app. Covers SQL data validation, onboarding funnel analysis, retention, and feature engagement — with a Power BI dashboard and a written A/B test proposal.
+
+`T-SQL` `Power BI` `Product analytics` `A/B testing` `MedTech`
 
 ---
 
